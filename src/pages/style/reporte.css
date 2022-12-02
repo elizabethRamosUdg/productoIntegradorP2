@@ -1,0 +1,9 @@
+.mainContainer {
+    height: 88vh;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    background-image: url("/src/images/bg.png");
+    flex-wrap: wrap;
+}

@@ -1,0 +1,19 @@
+.mainContainer {
+    height: 88vh;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    background-image: url("/src/images/bg.png");
+    flex-wrap: wrap;
+}
+
+.containerFile {
+    margin: 20px;
+    text-align-last: center;
+}
+
+.sistemaimage img {
+    width: 25rem;
+    margin: 20px;
+}
